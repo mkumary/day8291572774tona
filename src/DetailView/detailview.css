@@ -1,0 +1,45 @@
+.detail-header{
+    text-align: left;
+    border-bottom: solid 1.5px lightgreen;
+    margin-bottom: 40px;
+}
+.detail-header span{
+border-bottom: solid 1.5px blue;
+}
+.detail-body{
+    display: flex;
+    justify-content: space-around;
+}
+.description{
+    text-align: left;
+}
+.features-item{
+    text-align: left;
+}
+h3{
+    margin-top: 10px;
+}
+h3, h5{
+text-align: left;
+margin-bottom: 0;
+}
+h5{
+    margin-top:0;
+}
+.detail-body-container{
+    border: solid 1px grey;
+    padding: 20px;
+
+}
+.left-detail-container{
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px;
+}
+.scan-now{
+    background: #d89f9f;
+    padding: 7px 28px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}

@@ -1,0 +1,9 @@
+.image-list {
+list-style: none;
+display: flex;
+justify-content: space-between;
+}
+.thumbnail-image{
+    height: 100px;
+    width: 100px;
+}
