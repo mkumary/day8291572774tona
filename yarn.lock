@@ -1827,9 +1827,9 @@ acorn-walk@^6.0.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1, acorn@^6.0.4, acorn@^6.2.1:
   version "6.4.0"
@@ -7293,11 +7293,6 @@ node-sass@^4.12.0:
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
 
-node-tesseract-ocr@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/node-tesseract-ocr/-/node-tesseract-ocr-1.0.0.tgz#3ff68d6e5c890456443cb09cc1e25738ddcb3e77"
-  integrity sha512-1u6KNqrt0jGK8Fdrm8JfQD4bctEScpnDtsEV42dmZ54zQRov+OUZZb4a7uy4V+OKENn7fKpgB5WIza5ernGHzA==
-
 "nopt@2 || 3":
   version "3.0.6"
   resolved "https://registry.yarnpkg.com/nopt/-/nopt-3.0.6.tgz#c6465dbf08abcd4db359317f79ac68a646b28ff9"
@@ -10416,6 +10411,11 @@ terser@^4.1.2, terser@^4.3.9:
     commander "^2.20.0"
     source-map "~0.6.1"
     source-map-support "~0.5.12"
+
+tesseract@latest:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/tesseract/-/tesseract-0.0.3.tgz#ff4b9d05bfee0d90d3d93450e8c6606954ff362c"
+  integrity sha1-/0udBb/uDZDT2TRQ6MZgaVT/Niw=
 
 test-exclude@^5.2.3:
   version "5.2.3"
