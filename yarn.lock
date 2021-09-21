@@ -7293,11 +7293,6 @@ node-sass@^4.12.0:
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
 
-node-tesseract-ocr@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/node-tesseract-ocr/-/node-tesseract-ocr-1.0.0.tgz#3ff68d6e5c890456443cb09cc1e25738ddcb3e77"
-  integrity sha512-1u6KNqrt0jGK8Fdrm8JfQD4bctEScpnDtsEV42dmZ54zQRov+OUZZb4a7uy4V+OKENn7fKpgB5WIza5ernGHzA==
-
 "nopt@2 || 3":
   version "3.0.6"
   resolved "https://registry.yarnpkg.com/nopt/-/nopt-3.0.6.tgz#c6465dbf08abcd4db359317f79ac68a646b28ff9"
@@ -10417,6 +10412,11 @@ terser@^4.1.2, terser@^4.3.9:
     source-map "~0.6.1"
     source-map-support "~0.5.12"
 
+tesseract@latest:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/tesseract/-/tesseract-0.0.3.tgz#ff4b9d05bfee0d90d3d93450e8c6606954ff362c"
+  integrity sha1-/0udBb/uDZDT2TRQ6MZgaVT/Niw=
+
 test-exclude@^5.2.3:
   version "5.2.3"
   resolved "https://registry.yarnpkg.com/test-exclude/-/test-exclude-5.2.3.tgz#c3d3e1e311eb7ee405e092dac10aefd09091eac0"
@@ -10480,9 +10480,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
